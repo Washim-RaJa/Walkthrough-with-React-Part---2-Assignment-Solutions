@@ -1,2 +1,5 @@
-# Walkthrough-with-React-Part---2-Assignment-Solutions
-This project contains an Instagram clone and Counter
+## This project contains
+- Instagram signup and login page clone
+- A counter project
+## Used technology
+- React using Vite
